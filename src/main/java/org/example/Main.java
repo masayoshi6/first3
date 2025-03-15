@@ -6,6 +6,8 @@ public class Main {
             // <shortcut actionId="ToggleLineBreakpoint"/> を押すといつでも他のブレークポイントを追加できます。
             System.out.println("i = " + i);
             System.out.println("こんばんは");
+            System.out.println("aiueo");
+
         }
     }
 }
