@@ -9,5 +9,7 @@ public class Main {
             System.out.println("aiueo");
 
         }
+            System.out.println("こんばんは");
+            System.out.println("座組");
     }
 }
