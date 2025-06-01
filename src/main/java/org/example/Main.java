@@ -7,6 +7,6 @@ public class Main {
             System.out.println("i = " + i);
         }
             System.out.println("こんばんは");
-            System.out.println("座組だよ");
+            System.out.println("座組だよだよ");
     }
 }
